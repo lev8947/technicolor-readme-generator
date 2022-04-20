@@ -1,11 +1,20 @@
 
-    #hello world
 
-    ![License](https://img.shields.io/badge/License-${encodeURIcomponent(license)}-blue)
+function generateBadgeUrl(license){
+    return 'https://img.shields.io/badge/License-${encodeURIcomponent(license)}-blue';
+}
+
+function generateReadme(answers){
+
+    // main logic to generate readme
+    return `
+    #${answers.title}
+
+    ![License](${generateBadgeUrl(answers.license)})
 
     ##Description
     
-    its about the world
+    ${answers.desc}
     
     ##Table of Contents (Optional)
     
@@ -16,13 +25,13 @@
     
     ##Installation
     
-    yeezus
+    ${answers.installation}
     
     ##Credits
     
     ##License
     
-    This project is licensed under Apache-2.0
+    This project is licensed under ${answers.license}
 
     ---
     
@@ -46,4 +55,10 @@
     
     Go the extra mile and write tests for your application. Then provide examples on how to run them here.
     
-    
+    `
+
+}
+
+module.exports = {
+    generateReadme
+}

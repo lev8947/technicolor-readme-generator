@@ -1,49 +1,33 @@
+# Readme generator for UWA project
 
-    #hello world
+## Project Description
+This is a readme generator built with node.js ; it is used to save time when creating future programming projects
+    
+## License
+![License](https://img.shields.io/badge/licence-MIT-blueviolet)
+This project is licensed under a MIT License. A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code..
 
-    ![License](https://img.shields.io/badge/License-${encodeURIcomponent(license)}-blue)
+## Table of Contents
+    
+   - [Installation Instructions](#installation-instructions) 
+   - [Usage Information](#usage-information) 
+   - [Contribution Information](#contribution-information) 
+   - [Questions](#questions) 
+   - [Test Instructions](#test-instructions) 
 
-    ##Description
-    
-    its about the world
-    
-    ##Table of Contents (Optional)
-    
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [License](#license)
-    
-    ##Installation
-    
-    yeezus
-    
-    ##Credits
-    
-    ##License
-    
-    This project is licensed under Apache-2.0
 
-    ---
-    
-    🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-    
-    ##Badges
-    
-    ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-    
-    Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-    
-    ##Features
-    
-    If your project has a lot of features, list them here.
-    
-    ##How to Contribute
-    
-    If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-    
-    ##Tests
-    
-    Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-    
-    
+## Installation Instructions
+The steps utilised were implementing json and node modules...    
+   
+## Usage Information
+downloading the packages and using the integrated terminal    
+
+## Contribution Information
+Contributors on this project are:
+Lev8947 - www.github.com/Lev8947
+
+## Questions
+If you have any questions about this project, please contact the project creator: Lev8947 via email at lev_47@hotmail.com.
+
+## Test Instructions
+etc etc

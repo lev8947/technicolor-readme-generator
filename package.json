@@ -1,0 +1,22 @@
+{
+  "name": "technicolor-readme-generator",
+  "version": "1.0.0",
+  "description": "Readme generator made with node.js for UWA homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lev8947/technicolor-readme-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lev8947/technicolor-readme-generator/issues"
+  },
+  "homepage": "https://github.com/lev8947/technicolor-readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}

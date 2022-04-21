@@ -59,7 +59,7 @@ inquirer.prompt([
     // test instructions
     {
         type: 'input',
-        message: 'Enter test examples here',
+        message: 'Click the following link to see a demonstration walkthrough of the readme generator',
         name: 'test',
     },
 ])

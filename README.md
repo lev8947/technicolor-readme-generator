@@ -1,7 +1,7 @@
-# Readme generator for UWA project
+# Readme Generator UWA Bootcamp
 
 ## Project Description
-This is a readme generator built with node.js ; it is used to save time when creating future programming projects
+A readme generator built with node.js to save time for future programming tasks undertaken.
     
 ## License
 ![License](https://img.shields.io/badge/licence-MIT-blueviolet)
@@ -17,10 +17,10 @@ This project is licensed under a MIT License. A short and simple permissive lice
 
 
 ## Installation Instructions
-The steps utilised were implementing json and node modules...    
+node.js, json and node_modules need to be utilised    
    
 ## Usage Information
-downloading the packages and using the integrated terminal    
+download the content and follow instructions    
 
 ## Contribution Information
 Contributors on this project are:
@@ -30,4 +30,4 @@ Lev8947 - www.github.com/Lev8947
 If you have any questions about this project, please contact the project creator: Lev8947 via email at lev_47@hotmail.com.
 
 ## Test Instructions
-etc etc
+n/a
